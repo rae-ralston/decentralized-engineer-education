@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "web3": "0.17.0-alpha",
+    "ethereumjs-util": "4.5.0"
+  }
+}
