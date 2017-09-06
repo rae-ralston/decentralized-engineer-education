@@ -9,12 +9,14 @@ pragma solidity ^0.4.9;
 // RTFM: https://solidity.readthedocs.io/en/develop/
 
 // THIS CONTRACT CONTAINS BUGS - DO NOT USE
-contract InsecureAndMessy {
+contract  InsecureAndMessy {
    /// Mapping of ether shares of the contract.
-   mapping(address => uint) shares;
+   mapping(address => uint) shares; // initializes variable shares with a map of addresses to unsigned integers. 
    address owner;
    address[] shareholders;
    event FailedSend(address, uint);
+
+   let shares = {address: share}
 
    function InseceureAndMessy() {  // Spelling mistake means that constructor function
       owner = msg.sender;
