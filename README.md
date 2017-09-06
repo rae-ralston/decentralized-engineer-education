@@ -1,4 +1,4 @@
-# Dapp Study Resources
+# Dapp Study Resources & Practice
 
 ## Folder Structure
 #### decypherCourse
@@ -9,6 +9,10 @@ Practice auditing & explaining existing solidity contracts.
 ---
 
 ## Resources
+
+#### Quick References & Cheat Sheets
+- [Solidity Cheat Sheet](https://s3-eu-west-1.amazonaws.com/b9-academy-assets/public/solidity-cheatsheet.png)
+- [Spreadsheet of Gas Costs](https://docs.google.com/spreadsheets/d/1m89CVujrQe5LAFJ8-YAUCcNK950dUzMQPMJBxRtGCqs/edit#gid=0) (9/2017- how up to date is this?)
 
 #### Tutorials
 - [Solidity Docs: Intro to Smart Contracts](http://solidity.readthedocs.io/en/latest/introduction-to-smart-contracts.html)
@@ -29,3 +33,13 @@ Practice auditing & explaining existing solidity contracts.
 #### Development Resources
 - [Official Etherscan API](https://etherscan.io/apis)
 - [etherscan-api](https://github.com/sebs/etherscan-api): a node wrapper for the etherscan api
+
+
+---
+Haven't Completed, but look cool:
+- [Ethereum 101](https://academy.b9lab.com/courses/B9lab/X16-0/2016/about)
+
+---
+
+### Connect with Me 🤓
+[Personal Website](http://www.rachelralston.com)  |  [Oakland Blockchain Developers](http://www.blockchaindevelopers.io)  |  [LinkedIn](http://www.linkedin.com/in/rachelralston)  |  [Twitter](http://www.twitter.com/rachelralston)  |  [Medium](https://medium.com/@rachelralston)
