@@ -6,8 +6,6 @@ Notes and exercises from going through  [decypher.tv](http://decypher.tv/series/
 #### contract-audits
 Practice auditing & explaining existing solidity contracts.
 
----
-
 ## Resources
 
 #### Quick References & Cheat Sheets
@@ -41,12 +39,10 @@ Practice auditing & explaining existing solidity contracts.
 - [Solidity Compiler](https://remix.ethereum.org/)
 
 
----
 Haven't Completed, but look cool:
 - [Ethereum 101](https://academy.b9lab.com/courses/B9lab/X16-0/2016/about)
 - [Survey of attacks on Ethereum smart contracts](https://eprint.iacr.org/2016/1007.pdf)
 
----
 
-### Connect with Me 🤓
+## Connect with Me 🤓
 [Personal Website](http://www.rachelralston.com)  |  [Oakland Blockchain Developers](http://www.blockchaindevelopers.io)  |  [LinkedIn](http://www.linkedin.com/in/rachelralston)  |  [Twitter](http://www.twitter.com/rachelralston)  |  [Medium](https://medium.com/@rachelralston)
