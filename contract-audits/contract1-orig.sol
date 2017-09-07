@@ -9,25 +9,25 @@ pragma solidity ^0.4.9;
 // RTFM: https://solidity.readthedocs.io/en/develop/
 
 // THIS CONTRACT CONTAINS BUGS - DO NOT USE
-contract  InsecureAndMessy {
+contract InsecureAndMessy {
+
+
    /// Mapping of ether shares of the contract.
-   mapping(address => uint) shares; // initializes variable shares with a map of addresses to unsigned integers. 
+   mapping(address => uint) shares;
    address owner;
    address[] shareholders;
    event FailedSend(address, uint);
 
-   let shares = {address: share}
-
-   function InseceureAndMessy() {  // Spelling mistake means that constructor function
+   function InseceureAndMessy() {
       owner = msg.sender;
    }
 
    function () payable {
-      shares[msg.sender] = msg.value; // +=
+      shares[msg.sender] = msg.value;
    }
 
    function addShareholder(address shareholder) {
-      require(tx.origin == owner); // use msg.sender, why??
+      require(tx.origin == owner);
       shareholders.push(shareholder);
    }
 
@@ -43,7 +43,6 @@ contract  InsecureAndMessy {
    function dispense() {
       require(msg.sender == owner);
       address shareholder;
-
       for (var i = 0; i < shareholders.length; i++) {
          shareholder = shareholders[i];
          uint sh = shares[shareholder];
@@ -51,4 +50,5 @@ contract  InsecureAndMessy {
          shareholder.send(sh);
       }
    }
+
 }
