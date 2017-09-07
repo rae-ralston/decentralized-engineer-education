@@ -16,7 +16,9 @@ Practice auditing & explaining existing solidity contracts.
 - [Solidity Baby Steps](https://github.com/fivedogit/solidity-baby-steps/tree/master/contracts): a bunch of example contracts
 - [Where can I find some solidity smart Contract source code examples?](https://ethereum.stackexchange.com/questions/2940/where-can-i-find-some-solidity-smart-contract-source-code-examples)
 
-#### Tutorials
+#### Tutorials / Courses
+- [decypher.tv: Ethereum Ðapp Development](http://decypher.tv/series/ethereum-development)
+- [Blockchain@Berkeley: Blockchain for Developers](https://blockchain.berkeley.edu/decal/fa17/dev/?mc_cid=6a17845ad9&mc_eid=6063fce13c)
 - [Solidity Docs: Intro to Smart Contracts](http://solidity.readthedocs.io/en/latest/introduction-to-smart-contracts.html)
 - [Monax Development Tutorials](https://monax.io/docs/solidity/solidity_1_the_five_types_model/)
 
