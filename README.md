@@ -12,7 +12,7 @@ Practice auditing & explaining existing solidity contracts.
 - [Solidity Cheat Sheet](https://s3-eu-west-1.amazonaws.com/b9-academy-assets/public/solidity-cheatsheet.png)
 - [Spreadsheet of Gas Costs](https://docs.google.com/spreadsheets/d/1m89CVujrQe5LAFJ8-YAUCcNK950dUzMQPMJBxRtGCqs/edit#gid=0) (9/2017- how up to date is this?)
 - [Solidity Baby Steps](https://github.com/fivedogit/solidity-baby-steps/tree/master/contracts): a bunch of example contracts
-- [Where can I find some solidity smart Contract source code examples?](https://ethereum.stackexchange.com/questions/2940/where-can-i-find-some-solidity-smart-contract-source-code-examples)
+- [StackExchange: Where can I find some solidity smart Contract source code examples?](https://ethereum.stackexchange.com/questions/2940/where-can-i-find-some-solidity-smart-contract-source-code-examples)
 
 #### Tutorials / Courses
 - [decypher.tv: Ethereum Ðapp Development](http://decypher.tv/series/ethereum-development)
@@ -38,6 +38,8 @@ Practice auditing & explaining existing solidity contracts.
 - [Solidity Docs](https://solidity.readthedocs.io/en/develop/)
 - [Solidity Compiler](https://remix.ethereum.org/)
 
+#### IPFS
+- [Getting IPFS up an running as Ethereum storage](https://github.com/howardwu/IPFS-Ethereum-Storage)
 
 Haven't Completed, but look cool:
 - [Ethereum 101](https://academy.b9lab.com/courses/B9lab/X16-0/2016/about)
