@@ -8,6 +8,13 @@ Practice auditing & explaining existing solidity contracts.
 
 ## Resources
 
+#### Development Resources
+- [Official Etherscan API](https://etherscan.io/apis)
+- [etherscan-api](https://github.com/sebs/etherscan-api): a node wrapper for the etherscan api
+- [Solidity Docs](https://solidity.readthedocs.io/en/develop/)
+- [Online Solidity Compiler](https://remix.ethereum.org/)
+- [DOCS: ethereumjs-util package](https://github.com/ethereumjs/ethereumjs-util/blob/master/docs/index.md)
+
 #### Quick References & Cheat Sheets
 - [Solidity Cheat Sheet](https://s3-eu-west-1.amazonaws.com/b9-academy-assets/public/solidity-cheatsheet.png)
 - [Spreadsheet of Gas Costs](https://docs.google.com/spreadsheets/d/1m89CVujrQe5LAFJ8-YAUCcNK950dUzMQPMJBxRtGCqs/edit#gid=0) (9/2017- how up to date is this?)
@@ -32,14 +39,12 @@ Practice auditing & explaining existing solidity contracts.
   - [Part 1](https://www.youtube.com/watch?v=8jI1TuEaTro&list=PLV1JDFUtrXpGvu8QHL9b78WYNSJsYNZsb)
   - [Part 2](https://www.youtube.com/watch?v=3-XPBtAfcqo)
 
-#### Development Resources
-- [Official Etherscan API](https://etherscan.io/apis)
-- [etherscan-api](https://github.com/sebs/etherscan-api): a node wrapper for the etherscan api
-- [Solidity Docs](https://solidity.readthedocs.io/en/develop/)
-- [Solidity Compiler](https://remix.ethereum.org/)
-
 #### IPFS
 - [Getting IPFS up an running as Ethereum storage](https://github.com/howardwu/IPFS-Ethereum-Storage)
+
+#### General Wallet Safety
+- [Keythereum](https://github.com/ethereumjs/keythereum)
+- [BIP32 algorithm for hashing](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki)
 
 Haven't Completed, but look cool:
 - [Ethereum 101](https://academy.b9lab.com/courses/B9lab/X16-0/2016/about)

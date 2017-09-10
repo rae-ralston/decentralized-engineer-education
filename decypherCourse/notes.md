@@ -28,13 +28,14 @@ valid keys:
 '1abc1abc1abc1abc1abc1abc1abc1abc1abc1abc1abc1abc1abc1abc1abc1abc'
 ```
 - caps don't matter in the private key (1abc & 1AbC are equiv)
-- deterministic function that maps your private key to your public key
+- a deterministic function maps your private key to your public key
 - if one digit is changed in private key, public key is completly different.
 - private keys generate public keys
 - your wallet address is the last 40 digits of your public key
 - 0x is not part of the data, it's a declaration. It's declaring that it's in hex format.
 - any 40digit hex string is a valid ethereum address.
 - don't choose a private key that is easily guessed.
+- you could create a long string to hash from for a 'brain wallet'
 
 you can use sha3 through web3 to generate a 64 character hashed number
 ```
@@ -45,3 +46,8 @@ web3.sha3("oh my gosh I love thing")
 web3.sha3("oh my gosh I love things")
 // '0x016e2663fcc68b14cc7a7118567762e46c98aee81c599db4570614f60a1b079f'
 ```
+
+## lesson 3: Halting problem and why we need gas
+need to take notes on this one.
+
+## lesson 4: Intro to Transactions
