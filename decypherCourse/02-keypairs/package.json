@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "web3": "0.17.0-alpha",
-    "ethereumjs-util": "4.5.0"
+    "ethereumjs-util": "^5.1.2",
+    "web3": "^1.0.0-beta.18"
   }
 }
