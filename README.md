@@ -8,6 +8,9 @@ Practice auditing & explaining existing solidity contracts.
 
 ## Resources
 
+#### The Basics
+- [Truffle's Ethereum Overview](http://truffleframework.com/tutorials/ethereum-overview)
+
 #### Development Resources
 - [Official Etherscan API](https://etherscan.io/apis)
 - [etherscan-api](https://github.com/sebs/etherscan-api): a node wrapper for the etherscan api
