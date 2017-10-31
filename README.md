@@ -1,6 +1,6 @@
 # Decentralized Engineer Education
 
-
+Have a great eductional resource for us? [Submit an issue](https://github.com/rachel-ftw/decentralized-engineer-education/issues) to have it reviewed.
 
 
 ## Folder Structure
