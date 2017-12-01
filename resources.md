@@ -11,7 +11,7 @@
 - [DOCS: ethereumjs-util package](https://github.com/ethereumjs/ethereumjs-util/blob/master/docs/index.md)
 
 #### Quick References & Cheat Sheets
-- [Solidity Cheat Sheet](https://s3-eu-west-1.amazonaws.com/b9-academy-assets/public/solidity-cheatsheet.png)
+- [Solidity Cheat Sheet](https://github.com/manojpramesh/solidity-cheatsheet)
 - [Spreadsheet of Gas Costs](https://docs.google.com/spreadsheets/d/1m89CVujrQe5LAFJ8-YAUCcNK950dUzMQPMJBxRtGCqs/edit#gid=0) (9/2017- how up to date is this?)
 - [Solidity Baby Steps](https://github.com/fivedogit/solidity-baby-steps/tree/master/contracts): a bunch of example contracts
 - [StackExchange: Where can I find some solidity smart Contract source code examples?](https://ethereum.stackexchange.com/questions/2940/where-can-i-find-some-solidity-smart-contract-source-code-examples)
